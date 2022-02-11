@@ -1,0 +1,66 @@
+{
+    "booksList" : [
+      {
+        "id": 0,
+        "title": "Think and Grow Rich ",
+        "discreption":
+          "Think and Grow Rich has been called the Granddaddy of All Motivational Literature. It was the first book to boldly ask, What makes a winner? The man who asked and listened for the answer, Napoleon Hill, is now counted in the top ranks of the world's winners himself.  The most famous of all teachers of success spent a fortune and the better part of a lifetime of effort to produce the Law of Success philosophy that forms the basis of his books and that is so powerfully summarized in this one",
+        "img": "./media/books/1.jpg"
+      },
+      {
+        "id": 1,
+        "title": "The Richest Man In Babylon",
+        "discreption": "The Richest Man in Babylon, based on Babylonian parables, has been hailed as the greatest of all inspirational works on the subject of thrift, financial planning, and personal wealth. In simple language, these fascinating and informative stories set you on a sure path to prosperity and its accompanying joys. A celebrated bestseller, it offers an understanding and a solution to your personal financial problem. Revealed inside are the secrets to acquiring money, keeping money, and making money earn more money.",
+        "img": "./media/books/2.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Thinking, Fast and Slow",
+        "discreption": "System 1 is fast, intuitive, and emotional; System 2 is slower, more deliberative, and more logical. The impact of overconfidence on corporate strategies, the difficulties of predicting what will make us happy in the future, the profound effect of cognitive biases on everything from playing the stock market to planning our next vacation--each of these can be understood only by knowing how the two systems shape our judgments and decisions.Engaging the reader in a lively conversation about how we think, Kahneman reveals where we can and cannot trust our intuitions and how we can tap into the benefits of slow thinking. He offers practical and enlightening insights into how choices are made in both our business and our personal lives--and how we can use different techniques to guard against the mental glitches that often get us into trouble. Topping bestseller lists for almost ten years, Thinking, Fast and Slow is a contemporary classic, an essential book that has changed the lives of millions of readers.",
+        "img": "./media/books/3.jpg"
+      },
+      {
+        "id": 3,
+        "title": "make your bed",
+        "discreption": "Admiral McRaven's original speech went viral with over 10 million views. Building on the core tenets laid out in his speech, McRaven now recounts tales from his own life and from those of people he encountered during his military service who dealt with hardship and made tough decisions with determination, compassion, honor, and courage. Told with great humility and optimism, this timeless book provides simple wisdom, practical advice, and words of encouragement that will inspire readers to achieve more, even in life's darkest moments.Powerful. --USA Today",
+        "img": "./media/books/4.jpg"
+      },
+      {
+        "id": 4,
+        "title": "The Power of Habit",
+        "discreption": "In The Power of Habit, award-winning business reporter Charles Duhigg takes us to the thrilling edge of scientific discoveries that explain why habits exist and how they can be changed. Distilling vast amounts of information into engrossing narratives that take us from the boardrooms of Procter & Gamble to the sidelines of the NFL to the front lines of the civil rights movement, Duhigg presents a whole new understanding of human nature and its potential. At its core, The Power of Habit contains an exhilarating argument: The key to exercising regularly, losing weight, being more productive, and achieving success is understanding how habits work. As Duhigg shows, by harnessing this new science, we can transform our businesses, our communities, and our lives.",
+        "img": "./media/books/5.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Man's Search for Himself",
+        "discreption": "Loneliness, boredom, emptiness: These are the complaints that Rollo May encountered over and over from his patients. In response, he probes the hidden layers of personality to reveal the core of man's integration--a basic and inborn sense of value. Man's Search for Himself is an illuminating view of our predicament in an age of overwhelming anxieties and gives guidance on how to choose, judge, and act during such times.",
+        "img": "./media/books/6.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Mindful Self-Discipline",
+        "discreption": "As a meditation teacher and self-discipline coach, Giovanni Dienstmann has helped hedge fund managers, CEOs, entrepreneurs, ambitious professionals, artists and pro athletes to live a more focused and disciplined life. Since 2014 he has been successfully coaching people to overcome distractions, procrastination, self-doubt, fear, and other forms of self-sabotage. Whatever self-discipline challenge you face, whatever excuse you are telling yourself — Mindful Self-Discipline is a collection of all these years of experience, converted into a tool for you to use.",
+        "img": "./media/books/7.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Good Vibes, Good Life",
+        "discreption": "In this book, Instagram guru Vex King answers all of these questions and more. Vex overcame adversity to become a source of hope for thousands of young people, and now draws from his personal experience and his intuitive wisdom to inspire you to:practise self-care, overcome toxic energy and prioritize your wellbeing",
+        "img": "./media/books/8.jpg"
+      },
+      {
+        "id": 8,
+        "title": "The 7 Habits of Highly Effective People",
+        "discreption": "One of the most inspiring and impactful books ever written, The 7 Habits of Highly Effective People has captivated readers for nearly three decades. It has transformed the lives of presidents and CEOs, educators and parents—millions of people of all ages and occupations. Now, this 30th anniversary edition of the timeless classic commemorates the wisdom of the 7 Habits with modern additions from Sean Covey.",
+        "img":"./media/books/9.jpg"
+      },
+      {
+        "id": 9,
+        "title": "The Subtle Art of Not Giving a F*ck",
+        "discreption": "For decades, we’ve been told that positive thinking is the key to a happy, rich life. F**k positivity, Mark Manson says.Let’s be honest, shit is f**ked and we have to live with it. In his wildly popular Internet blog, Manson doesn’t sugarcoat or equivocate. He tells it like it is—a dose of raw, refreshing, honest truth that is sorely lacking today. The Subtle Art of Not Giving a F**k is his antidote to the coddling, let’s-all-feel-good mindset that has infected modern society and spoiled a generation, rewarding them with gold medals just for showing up.",
+        "img": "./media/books/10.jpg"
+      }
+    ]
+  }
+  

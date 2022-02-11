@@ -1,0 +1,90 @@
+{
+    "diet":[
+        {"id":1,
+        "day":"Today's meal plan contains about 2,250 calories, with 55% of those calories coming from carbohydrates, 20% from fat, and 25% from protein. It also has about 34 grams of fiber.",
+        "Breakfast_menu":"One grapefruit,Two poached eggs (or fried in a non-stick pan)Two slices whole-grain toast with one pat of butter each,One cup low-fat milk,One cup of black coffee or herbal tea",
+        "snack":"One banana,One cup plain yogurt with two tablespoons honGlass of water,",
+        "lunch_menu":"Chicken breast (6-ounce portion), baked or roasted (not breaded or fried),Large garden salad with tomato and onion with one cup croutons, topped with one tablespoon oil and vinegar (or salad dressing),Glass of water ",
+        "dinner menu":"One cup steamed broccoliOne cup of brown rice,Halibut (four-ounce portion),Small garden salad with one cup spinach leaves, tomato, and onion topped with two tablespoons oil and vinegar or salad dressingOne glass white wine (regular or dealcoholized),Sparkling water with lemon or lime slice",
+        "imgDiet":"https://cdn.pixabay.com/photo/2015/05/04/10/16/vegetables-752153__340.jpg"
+        },
+        {"id":2,
+            "day":"If you eat this whole menu, you get about 2,150 calories, with 51% of those calories coming from carbohydrates, 21% from fat, and 28% from protein. The meal plan also has 30 grams of fiber.",
+            "Breakfast_menu":"One whole-wheat English muffin with two tablespoons peanut butter,One orange,Large glass (12 ounces) non-fat milk,One cup of black coffee or herbal tea",
+            "snack":"Two oatmeal cookies with raisins, Glass of water, hot tea, or black coffee",
+            "lunch_menu":" A turkey sandwich (six ounces of turkey breast meat, large tomato slice, green lettuce and mustard on two slices of whole wheat brOne cup low-sodium vegetable soup,Glass of water",
+            "dinner_menu":"Five-ounce sirloin steak,One cup mashed potatoes,One cup cooked spinach,One cup green beans,One glass beer (regular, lite or non-alcohol),Sparkling water with lemon or lime slice",
+            "imgDiet":"https://cdn.pixabay.com/photo/2014/11/05/15/57/salmon-518032__340.jpg"
+            },
+            {"id":3,
+                "day":"Today's meal has about 2,260 calories, with 55% of those calories coming from carbohydrates, 20% from fat, and 25% from protein. It also has 50 grams of fiber.",
+                "Breakfast_menu":"One medium bran muffin,One serving turkey breakfast sausage,One orange,One cup non-fat milk,One cup black coffee or herbal tea",
+                "snack":"One fresh pear,One cup of flavored soy milk,Glass of water, hot tea, or black coffee",
+                "lunch_menu":"Low sodium chicken noodle soup with six saltine crackers,One medium apple,Water",
+                "dinner_menu":"8-ounce serving of turkey breast meat,One cup baked beans,One cup cooked carrots,One cup cooked kale,One glass of wine",
+                "imgDiet":"https://cdn.pixabay.com/photo/2017/03/23/19/57/asparagus-2169305__340.jpg"
+                },
+                {"id":4,
+                    "day":"By the end of today, you'll consume about 2,230 calories, with 54% of those calories coming from carbohydrates, 24% from fat, and 22% from protein. You'll also get about 27 grams of fiber.",
+                    "Breakfast_menu":"One cup whole wheat flakes with one cup non-fat milk and one teaspoon sugarOne banana,One slice whole-grain toast with one tablespoon peanut butter,One cup of black coffee or herbal tea",
+                    "snack":"One cup grapes and one tangerine,Glass of water, hot tea, or black coffee",
+                    "lunch_menu":"Tuna wrap with one wheat flour tortilla, one-half can water-packed tuna (drained), one tablespoon mayonnaise, lettuce, and sliced tOne sliced avocadoOne cup non-fat milk",
+                    "dinner_menu":"One serving lasagna,Small garden salad with tomatoes and onions topped with one tablespoon salad dressing,One cup non-fat milk",
+                    "imgDiet":"https://cdn.pixabay.com/photo/2016/12/10/21/26/food-1898194__340.jpg"
+                    },
+                    {"id":5,
+                        "day":"This delicious meal plan includes three meals and three snacks and has approximately 2,250 calories, with 53% of those calories coming from carbohydrates, 25% from fat, and 21% from protein. And lots of fiber—over 40 grams.",
+                        "Breakfast_menu":"One piece of French toast with one tablespoon maple syrup,One scrambled or poached egg,One serving turkey bacon,One cup orange juice,One cup black coffee or herbal tea",
+                        "snack":"One cup sliced carrots,One cup cauliflower pieces,Two tablespoons ranch dressing,Glass of water, hot tea, or black coffee",
+                        "lunch_menu":"Veggie burger on a whole grain bun,One cup northern (or other dry) beans,One cup non-fat milk",
+                        "dinner_menu":"One trout filet,One cup green beans,One cup brown rice,One small garden salad with two tablespoons salad dressing,One glass of beer,Sparkling water with lemon or lime slice",
+                        "imgDiet":"https://cdn.pixabay.com/photo/2014/08/26/15/28/jam-428094__340.jpg"
+                        },
+                        {"id":6,
+                            "day":"Today's meals and snacks have about 2,200 calories, with 55% of those calories coming from carbohydrates, 19% from fat, and 26% from protein. You'll also get about 31 grams fiber.",
+                            "Breakfast_menu":"One cup corn flakes with two teaspoons sugar and one cup non-fat milk,One banana,One hard-boiled egg,One cup black coffee or herbal tea",
+                            "snack":"One cup plain yogurt with one tablespoon honey, one-half cup blueberries, and one tablespoon almonds, Glass of water, hot tea, or black coffee",
+                            "lunch_menu":"One cup whole wheat pasta with one-half cup red pasta sauce,Medium garden salad with tomatoes and onions and two tablespoons salad dGlass of water ",
+                            "dinner_menu":"Four and one-half ounce serving of pork loinSmall garden salad with tomatoes and onions topped with two tablespoons oil and vinegar (or salad drOne small baked sweet potato,One cup asparagus,One glass wine (regular or dealcoholized),Sparkling water with lemon or lime slice",
+                            "imgDiet":"https://cdn.pixabay.com/photo/2014/12/11/02/55/cereals-563796__340.jpg"
+                            },
+                            {"id":7,
+                                "day":"Today's menu contains about 2,200 calories, with 54% of those calories coming from carbohydrates, 22% from fat, and 24% from protein. There are also 46 grams of fiber.",
+                                "Breakfast_menu":"One cup cooked oatmeal with one-half cup blueberries, one-half cup non-fat milk, and one tablespoon almond slivers,Two slices turkey bacon,One cup non-fat milk to drink,One cup black coffee or herbal tea",
+                                "snack":"One cup plain yogurt with one tablespoon honey, one-half cup strawberries, and two tablespoons almond slivers,Glass of water, hot tea, or black coffee",
+                                "lunch_menu":"Six-ounce baked chicken breast,Large garden salad with tomatoes and onions and two tablespoons salad dressing,One baked sweet potato,One whole-wheat dinner roll.Glass of water ",
+                                "dinner_menu":"3-ounce serving of baked or grilled salmon,One-half cup black beans,One cup Swiss chard,One cup brown rice,One whole wheat dinner roll with a pat of butter,Sparkling water with lemon or lime slice",
+                                "imgDiet":"https://cdn.pixabay.com/photo/2016/11/23/18/31/pasta-1854245__340.jpg"
+                                }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

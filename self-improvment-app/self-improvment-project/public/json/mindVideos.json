@@ -1,0 +1,34 @@
+{
+    "videos":[
+        {
+            "id":1,
+            "titleVid":"Master Shi Heng Yi – 5 hindrances to self-mastery",
+            "video":"https://www.youtube.com/watch?v=4-079YIasck",
+            "descriptionVid":" Meet Shaolin Master Shi Heng Yi in his serene talk about self-discovery. Learn why rainfall is an essential part of each flowering. And every small step – part of the journey to the highest peek. The hindrances along the way to self-discovery and personal growth are easy to overcome. Learn how from his talk. For more than 30 years, Master Shi Heng Yi has been studying and practicing the interaction between mind and body. His strength is the ability to smoothly combine this knowledge with physical exercises and to practice Martial art –Kung Fu and Qi Gong. He has an academic background but he prefers to live at the Shaolin Temple Europe, Monastery located in Otterberg, Germany. Since 2010 he has been taking care of the settlement and he personifies the sustainable development and spreading the Shaolin culture and philosophy. As a contemporary monk, Master Yi holds a smartphone in the folds of his clothes as he sees no contradiction between living together with ancient knowledge and high technology. “The universal law of being successful and happy at the same time means finding the balance”, says master Yi.  And as for flying – yes, he really can do it! He only needs a stick and a little space. We expect him to fly-in and share about the Shaolin way at TEDxVitosha 2020."
+        },
+        {
+            "id":2,
+            "titleVid":"TEDxOrangeCoast - Daniel Amen - Change Your Brain, Change Your Life",
+            "video":"https://www.youtube.com/watch?v=MLKj1puoWCg&list=PLaGOzwY0Dq-LDqy61WiaTTEqkpPc4VPgW",
+            "descriptionVid":" Change your Brain, Change your Life. Revelations  based on studying 63,000 brain images across 90 countries over 20 years. How Brain imaging can change paradigms and our understanding of healthy life, no matter where we live.Physician, psychiatrist, and teacher, Daniel Amen, MD, is one of the world's foremost experts on applying brain imaging science to clinical psychiatric practice. He is widely regarded as a gifted teacher, taking complex brain science concepts to make them easily accessible to other professionals and the general public. Daniel is the author of 42 professional articles and 28 books, including four New York Times bestsellers. He is the producer and star of five highly popular shows about the brain, which have raised more than 34 million dollars for public television. Daniel is the medical director of Amen Clinics, Inc., that has the world's largest database of functional brain scans totaling more than 64,000. The clinics have seen patients from 90 countries."
+        },
+        {
+            "id":3,
+            "titleVid":"How To Eliminate Self Doubt Forever & The Power of Your Unconscious Mind",
+            "video":"https://www.youtube.com/watch?v=v1ojZKWfShQ",
+            "descriptionVid":"Why do seemingly intelligent people procrastinate? Are there really hidden patterns and belief systems within us that conspire against our best intentions? In this talk, human behaviour expert, Peter Sage, exposes some of the hidden reasons and unconscious patterns that cause us to self-sabotage and explains what we can do to change them."
+        },
+        {
+            "id":4,
+            "titleVid":"After watching this, your brain will not be the same | Lara Boyd ",
+            "video":"https://www.youtube.com/watch?v=LNHBMFCzznE",
+            "descriptionVid":"n a classic research-based TEDx Talk, Dr. Lara Boyd describes how neuroplasticity gives you the power to shape the brain you want. Recorded at TEDxVancouver at Rogers Arena on November 14, 2015"
+        },
+        {
+            "id":5,
+            "titleVid":"Food for thought: How your belly controls your brain | Ruairi Robertson ",
+            "video":"https://www.youtube.com/watch?v=awtmTJW9ic8",
+            "descriptionVid":"Have you ever had a gut feeling or butterflies in your stomach? Has hunger ever changed your mood? Our bellies and brains are physically and biochemically connected in a number of ways, meaning the state of our intestines can alter the way our brains work and behave, giving a whole new meaning to 'Food for thought"
+        }
+    ]
+}
